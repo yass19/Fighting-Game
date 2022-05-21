@@ -63,7 +63,7 @@ See [IDE_USAGE.md](IDE_USAGE.md) for details.
 
 ## License
 
-Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)
+Author: Yosr Karoui [@yass19](https://github.com/yass19)
 
 This project is distributed under the terms of the MIT license
 [&lt;LICENSE&gt;](LICENSE).
@@ -72,7 +72,7 @@ This project is distributed under the terms of the MIT license
 The images under the assets directory are distributed under different licenses:
 
 - `plane.png` and `plane-shadow.png`:<br>
-  Author: Amine B. Hassouna [@aminosbh](https://gitlab.com/aminosbh)<br>
+  Author: Yosr Karoui [@yass19](https://github.com/yass19)<br>
   License: [Creative Commons Attribution 4.0 International License.][CCBY]
 
 - `ocean.jpg`:<br>
